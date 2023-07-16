@@ -8,12 +8,17 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 
 如果您有需要，欢迎加入自动驾驶之心：[技术交流群](https://mp.weixin.qq.com/s/G0zMQgCHNbeXKOei3Mgtwg)
 
-## 1）BEV感知
+## 1）OCC感知
 
 **SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**
 
 - Paper：[SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2303.09551)
 - Code：https://github.com/weiyithu/SurroundOcc
+
+**OccNet: Scene as Occupancy**
+
+- Paper：[Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf)
+- Code：https://github.com/OpenDriveLab/OccNet
 
 ## 2）3D目标检测
 
