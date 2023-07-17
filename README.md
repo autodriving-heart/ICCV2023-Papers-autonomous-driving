@@ -4,6 +4,10 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 
 后面将会按照3D目标检测、BEV、协同感知、语义分割、点云、SLAM、大模型、NeRF、端到端、多模态融合等多个方向罗列！
 
+**如果您要投稿，欢迎提交Issue,或者联系邮箱autodrivingtech@163.com，我们会及时收录！**
+
+
+
 本内容由自[公众号【自动驾驶之心】](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247542481&idx=1&sn=c6d8609491a128233c3c3b91d68d22a6&chksm=ceb80b18f9cf820e789efd75947633aec9d2f1e8b58c29e5051c05a64b21ae63c244d54886a1&token=11182364&lang=zh_CN#rd) 团队整理，自动驾驶之心建立了一系列技术交流群，面向自动驾驶与AI领域，包括：**目标检测、语义分割、全景分割、实例分割、车道线、目标跟踪、3D目标检测、多模态感知、BEV感知、Occupancy、多传感器融合、多传感器标定、transformer、大模型、点云处理、端到端自动驾驶、SLAM、光流估计、深度估计、轨迹预测、高精地图、NeRF、规划控制、模型部署落地、自动驾驶仿真测试、产品经理、硬件配置、AI求职交流等**！
 
 如果您有需要，欢迎加入自动驾驶之心：[技术交流群](https://mp.weixin.qq.com/s/G0zMQgCHNbeXKOei3Mgtwg)
