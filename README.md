@@ -31,6 +31,16 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: https://arxiv.org/abs/2206.01256
 - Code: https://github.com/megvii-research/PETR
 
+**StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection**
+
+- Paper: https://arxiv.org/pdf/2303.11926.pdf
+- Code: https://github.com/exiawsh/StreamPETR.git
+
+**Cross Modal Transformer: Towards Fast and Robust 3D Object Detection**
+
+- Paper: https://arxiv.org/pdf/2301.01283.pdf
+- Code: https://github.com/junjie18/CMT.git
+
 **DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**
 
 - Paper: https://arxiv.org/abs/2304.13031
