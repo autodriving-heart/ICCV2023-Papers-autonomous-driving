@@ -51,9 +51,17 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: https://arxiv.org/abs/2304.14340
 - Code: https://github.com/yichen928/SparseFusion
 
+**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**
+
+-  Paper: https://arxiv.org/pdf/2304.09801.pdf
+- Code: https://github.com/ChongjianGE/MetaBEV
+
 ## 3）协同感知
 
-continue!!!
+**Among Us: Adversarially Robust Collaborative Perception by Consensus**
+
+-  Paper: https://arxiv.org/pdf/2303.09495.pdf
+- Code: https://github.com/coperception/ROBOSAC
 
 ## 4）语义分割
 
@@ -75,6 +83,12 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 - Paper: https://arxiv.org/abs/2304.09913
 - Code: https://github.com/shjo-april/MARS
 
+**Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation**
+
+- Paper: https://arxiv.org/pdf/2303.12782.pdf
+
+- Code: https://github.com/lxtGH/Tube-Link
+
 ## 5）点云感知
 
 **Robo3D: Towards Robust and Reliable 3D Perception against Corruptions**
@@ -88,3 +102,10 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 - Paper: https://arxiv.org/abs/2210.00647
 - Code: https://github.com/zju3dv/IntrinsicNeRF
+
+## 7）跟踪
+
+**PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**
+
+- Paper: https://arxiv.org/pdf/2211.11629.pdf
+- Code: https://github.com/Jaraxxus-Me/PVT_pp
