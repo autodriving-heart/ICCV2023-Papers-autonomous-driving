@@ -12,6 +12,8 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 
 如果您有需要，欢迎加入自动驾驶之心：[技术交流群](https://mp.weixin.qq.com/s/G0zMQgCHNbeXKOei3Mgtwg)
 
+
+
 ## 1）OCC感知
 
 **SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**
@@ -24,7 +26,43 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper：[Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf)
 - Code：https://github.com/OpenDriveLab/OccNet
 
-## 2）3D目标检测
+**OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**
+
+- Paper: https://arxiv.org/pdf/2304.05316.pdf
+- Code: https://github.com/zhangyp15/OccFormer
+
+**OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception**
+
+- Paper: https://arxiv.org/pdf/2303.03991.pdf
+- Code: https://github.com/JeffWang987/OpenOccupancy
+
+## 2)  端到端自动驾驶
+
+**VAD: Vectorized Scene Representation for Efficient Autonomous Driving**
+
+- Paper: https://arxiv.org/pdf/2303.12077.pdf
+- Code: https://github.com/hustvl/VAD
+
+## 3）协同感知
+
+**Among Us: Adversarially Robust Collaborative Perception by Consensus**
+
+-  Paper: https://arxiv.org/pdf/2303.09495.pdf
+- Code: https://github.com/coperception/ROBOSAC
+
+**HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer**
+
+- Paper: https://arxiv.org/pdf/2304.10628.pdf
+
+**Optimizing the Placement of Roadside LiDARs for Autonomous Driving**
+
+待更新！
+
+**UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework**
+
+- Paper: https://arxiv.org/pdf/2303.12400.pdf
+
+## 4）3D目标检测
 
 **PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images**
 
@@ -54,16 +92,14 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 **MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**
 
 -  Paper: https://arxiv.org/pdf/2304.09801.pdf
-- Code: https://github.com/ChongjianGE/MetaBEV
+-  Code: https://github.com/ChongjianGE/MetaBEV
 
-## 3）协同感知
+**Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction**
 
-**Among Us: Adversarially Robust Collaborative Perception by Consensus**
+- Paper: https://arxiv.org/pdf/2304.00967.pdf
+- Code: https://github.com/Sense-X/HoP
 
--  Paper: https://arxiv.org/pdf/2303.09495.pdf
-- Code: https://github.com/coperception/ROBOSAC
-
-## 4）语义分割
+## 5）语义分割
 
 **Rethinking Range View Representation for LiDAR Segmentation**
 
@@ -89,23 +125,66 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 - Code: https://github.com/lxtGH/Tube-Link
 
-## 5）点云感知
+**Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation**
+
+- Paper: 待更新！
+- Code: https://github.com/lizhaoliu-Lec/CPCM
+
+## 6）点云感知
 
 **Robo3D: Towards Robust and Reliable 3D Perception against Corruptions**
 
 - Paper：https://arxiv.org/pdf/2303.17597.pdf
 - Code：https://github.com/ldkong1205/Robo3D
 
-## 6）NeRF
+**Implicit Autoencoder for Point Cloud Self-supervised Representation Learning**
+
+- Paper: https://arxiv.org/pdf/2201.00785.pdf
+- Code: https://github.com/SimingYan/IAE
+
+**P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds**
+
+- Paper: 
+- Code: https://github.com/CuiRuikai/Partial2Complete
+
+**CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training**
+
+- Paper: https://arxiv.org/pdf/2210.01055.pdf
+- Code: https://github.com/tyhuang0428/CLIP2Point
+
+## 7）目标跟踪
+
+**PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**
+
+- Paper: https://arxiv.org/pdf/2211.11629.pdf
+- Code: https://github.com/Jaraxxus-Me/PVT_pp
+
+**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**
+
+- Paper: 待更新！
+- Code: https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker
+
+**ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking**
+
+- Paper: 待更新！
+- Code: https://github.com/chengche6230/ReST
+
+## 8)  轨迹预测
+
+**EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting**
+
+- Paper: https://arxiv.org/pdf/2307.09306.pdf
+- Code: https://github.com/InhwanBae/EigenTrajectory
+
+## 9）NeRF
 
 **IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**
 
 - Paper: https://arxiv.org/abs/2210.00647
 - Code: https://github.com/zju3dv/IntrinsicNeRF
 
-## 7）跟踪
+**SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**
 
-**PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**
+- Paper: https://arxiv.org/pdf/2212.02501.pdf
+- Code: https://github.com/astra-vision/SceneRF
 
-- Paper: https://arxiv.org/pdf/2211.11629.pdf
-- Code: https://github.com/Jaraxxus-Me/PVT_pp
