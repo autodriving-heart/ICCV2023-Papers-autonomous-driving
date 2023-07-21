@@ -99,6 +99,11 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: https://arxiv.org/pdf/2304.00967.pdf
 - Code: https://github.com/Sense-X/HoP
 
+**Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling**
+
+- Paper: https://arxiv.org/pdf/2307.07944.pdf
+- Code: https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet
+
 ## 5）语义分割
 
 **Rethinking Range View Representation for LiDAR Segmentation**
@@ -152,6 +157,16 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 - Paper: https://arxiv.org/pdf/2210.01055.pdf
 - Code: https://github.com/tyhuang0428/CLIP2Point
 
+**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**
+
+- Paper: https://arxiv.org/pdf/2307.08492.pdf
+- Code: https://github.com/czvvd/SVDFormer
+
+**AdaptPoint: Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions**
+
+- Paper: 待更新
+- Code: https://github.com/Roywangj/AdaptPoint/tree/main
+
 ## 7）目标跟踪
 
 **PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**
@@ -168,6 +183,11 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 - Paper: 待更新！
 - Code: https://github.com/chengche6230/ReST
+
+**Multiple Planar Object Tracking**
+
+- Paper: 待更新！
+- Code: https://github.com/nku-zhichengzhang/MPOT
 
 ## 8)  轨迹预测
 
@@ -187,4 +207,6 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 - Paper: https://arxiv.org/pdf/2212.02501.pdf
 - Code: https://github.com/astra-vision/SceneRF
+
+
 
