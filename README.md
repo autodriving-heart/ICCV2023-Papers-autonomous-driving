@@ -104,6 +104,11 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: https://arxiv.org/pdf/2307.07944.pdf
 - Code: https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet
 
+**Learning from Noisy Data for Semi-Supervised 3D Object Detection**
+
+- Paper: 待更新！
+- Code: https://github.com/zehuichen123/NoiseDet
+
 ## 5）语义分割
 
 **Rethinking Range View Representation for LiDAR Segmentation**
@@ -167,6 +172,11 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 - Paper: 待更新
 - Code: https://github.com/Roywangj/AdaptPoint/tree/main
 
+**RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration**
+
+- Paper: 待更新！
+- Code: https://github.com/IRMVLab/RegFormer
+
 ## 7）目标跟踪
 
 **PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**
@@ -188,6 +198,16 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 - Paper: 待更新！
 - Code: https://github.com/nku-zhichengzhang/MPOT
+
+**3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking**
+
+- Paper: 待更新！
+- Code: https://github.com/dsx0511/3DMOTFormer
+
+**MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors**
+
+- Paper: https://arxiv.org/pdf/2303.05071.pdf
+- Code: https://github.com/slothfulxtx/MBPTrack3D
 
 ## 8)  轨迹预测
 
