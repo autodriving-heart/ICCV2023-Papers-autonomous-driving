@@ -18,12 +18,12 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 
 **SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**
 
-- Paper：[SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2303.09551)
+- Paper：https://arxiv.org/abs/2303.09551
 - Code：https://github.com/weiyithu/SurroundOcc
 
 **OccNet: Scene as Occupancy**
 
-- Paper：[Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf)
+- Paper：https://arxiv.org/pdf/2306.02851.pdf
 - Code：https://github.com/OpenDriveLab/OccNet
 
 **OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**
@@ -43,6 +43,11 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: https://arxiv.org/pdf/2303.12077.pdf
 - Code: https://github.com/hustvl/VAD
 
+**DriveAdapter: New Paradigm for End-to-End Autonomous Driving to Alleviate Causal Confusion**
+
+- Paper: https://arxiv.org/pdf/2308.00398.pdf
+- Code: https://github.com/OpenDriveLab/DriveAdapter
+
 ## 3）协同感知
 
 **Among Us: Adversarially Robust Collaborative Perception by Consensus**
@@ -61,6 +66,11 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 **UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework**
 
 - Paper: https://arxiv.org/pdf/2303.12400.pdf
+
+**ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation**
+
+- Paper: https://arxiv.org/pdf/2307.14187.pdf
+- Code: https://github.com/KUIS-AI/adapt
 
 ## 4）3D目标检测
 
@@ -109,6 +119,17 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: 待更新！
 - Code: https://github.com/zehuichen123/NoiseDet
 
+**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**
+
+- Paper: https://arxiv.org/pdf/2307.11477.pdf
+
+- Code: https://github.com/mengtan00/SA-BEV
+
+**PG-RCNN: Semantic Surface Point Generation for 3D Object Detection**
+
+- Paper: https://arxiv.org/pdf/2307.12637.pdf
+- Code: https://github.com/quotation2520/PG-RCNN
+
 ## 5）语义分割
 
 **Rethinking Range View Representation for LiDAR Segmentation**
@@ -135,10 +156,35 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 - Code: https://github.com/lxtGH/Tube-Link
 
-**Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation**
+**CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation**
 
-- Paper: 待更新！
+- Paper: https://arxiv.org/pdf/2307.10316.pdf
 - Code: https://github.com/lizhaoliu-Lec/CPCM
+
+**To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation**
+
+- Paper: https://arxiv.org/pdf/2307.15063.pdf
+- Code: https://github.com/MarcBotet/hamlet
+
+**PointDC: Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering**
+
+- Paper: https://arxiv.org/abs/2304.08965
+- Code: https://github.com/HalvesChen/PointDC
+
+**Contrastive Model Adaptation for Cross-Condition Robustness in Semantic Segmentation**
+
+- Paper: https://arxiv.org/pdf/2303.05194.pdf
+- Code: https://github.com/brdav/cma
+
+**PODA: Prompt-driven Zero-shot Domain Adaptation**
+
+- Paper: https://arxiv.org/pdf/2212.03241.pdf
+- Code: https://github.com/astra-vision/PODA
+
+**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**
+
+- Paper: https://red-fairy.github.io/ZeroShotDayNightDA-Webpage/paper.pdf
+- Code: https://github.com/Red-Fairy/ZeroShotDayNightDA
 
 ## 6）点云感知
 
@@ -169,13 +215,28 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 
 **AdaptPoint: Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions**
 
-- Paper: 待更新
+- Paper: 待更新！
 - Code: https://github.com/Roywangj/AdaptPoint/tree/main
 
 **RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration**
 
-- Paper: 待更新！
+- Paper: https://arxiv.org/pdf/2303.12384.pdf
 - Code: https://github.com/IRMVLab/RegFormer
+
+**Point Cloud regression with new algebraical representation on ModelNet40 datasets**
+
+- Paper: 待更新！
+- Code: https://github.com/flatironinstitute/PointCloud_Regression
+
+**Clustering based Point Cloud Representation Learning for 3D Analysis**
+
+- Paper: https://arxiv.org/pdf/2307.14605.pdf
+- Code: https://github.com/FengZicai/Cluster3Dseg
+
+**Implicit Autoencoder for Point Cloud Self-supervised Representation Learning**
+
+- Paper: https://arxiv.org/pdf/2201.00785.pdf
+- Code: https://github.com/SimingYan/IAE
 
 ## 7）目标跟踪
 
@@ -228,5 +289,28 @@ Paper：https://arxiv.org/pdf/2303.05367.pdf
 - Paper: https://arxiv.org/pdf/2212.02501.pdf
 - Code: https://github.com/astra-vision/SceneRF
 
+**Single-Stage Diffusion NeRF**
 
+- Paper: https://arxiv.org/abs/2304.06714
+- Code: https://github.com/Lakonik/SSDNeRF
 
+## 10）光流
+
+**SemARFlow: Injecting Semantics into Unsupervised Optical Flow Estimation for Autonomous Driving**
+
+- Paper: https://arxiv.org/pdf/2303.06209.pdf
+- Code: https://github.com/duke-vision/semantic-unsup-flow-release
+
+## 11）双目
+
+**ELFNet: Evidential Local-global Fusion for Stereo Matching**
+
+- Paper: https://arxiv.org/pdf/2308.00728.pdf
+- Code: https://github.com/jimmy19991222/ELFNet
+
+## 12）鱼眼
+
+**SimFIR: A Simple Framework for Fisheye Image Rectification with Self-supervised Representation Learning**
+
+- Paper: 待更新
+- Code: https://github.com/fh2019ustc/SimFIR
