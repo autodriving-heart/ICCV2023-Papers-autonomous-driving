@@ -72,6 +72,11 @@ ICCV2023结果陆续都出来了，收到了很多朋友中稿的消息，ICCV 2
 - Paper: https://arxiv.org/pdf/2307.14187.pdf
 - Code: https://github.com/KUIS-AI/adapt
 
+**CORE: Cooperative Reconstruction for Multi-Agent Perception**
+
+- Paper: https://arxiv.org/pdf/2307.11514.pdf
+- Code: https://github.com/zllxot/CORE
+
 ## 4）3D目标检测
 
 **PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images**
